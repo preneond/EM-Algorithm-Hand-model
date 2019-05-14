@@ -1,0 +1,2 @@
+# EM-Algorithm-Hand-model
+EM-ALGORITHM FOR A SIMPLE SHAPE MODEL
